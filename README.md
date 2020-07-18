@@ -1,5 +1,5 @@
 # To run in command line:
-##add plugin:
+## add plugin:
 
   <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -11,11 +11,11 @@
             </configuration>
   </plugin>
   
-##add default goal:
+## add default goal:
 
   <defaultGoal>install</defaultGoal>
 
-##run:
+## run:
 
 mvn install
 mvn spring-boot:run
