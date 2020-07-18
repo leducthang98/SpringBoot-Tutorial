@@ -13,7 +13,7 @@
   
 ## add default goal:
 
-   *// <defaultGoal>install</defaultGoal> //*
+  <defaultGoal>install</defaultGoal> 
 
 ## run:
 
