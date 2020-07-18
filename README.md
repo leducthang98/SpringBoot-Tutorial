@@ -1,7 +1,7 @@
-# To run in command line:
+# To run in command line: (Click to see detail)
 ## add plugin:
 
- *// <plugin>
+  <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.5.1</version>
@@ -9,7 +9,7 @@
                 <source>1.8</source>
                 <target>1.8</target>
             </configuration>
-  </plugin> //*
+  </plugin> 
   
 ## add default goal:
 
